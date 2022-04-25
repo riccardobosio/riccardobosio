@@ -1,5 +1,5 @@
 ## Hi there 👋
-<Inserire descrizione simile all'about di Linkedin>
+[//]: # (<Inserire descrizione simile all'about di Linkedin>)
 
 ### About me
 - 🔭 I’m currently working on Neural Networks Optimization as a Computer Vision Engineer Intern at AllRead Machine Learning Technologies.
@@ -7,7 +7,7 @@
 - :school_satchel: Bachelor of Science degree in __Mathematics for Engineering__ at _Politecnico di Torino_
 
 ### Projects
-<Inserire i link alle repository>
+[//]: # (<Inserire i link alle repository>)
           
 ### Hobbies
 - :runner: Doing several sports
