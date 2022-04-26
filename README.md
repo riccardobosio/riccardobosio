@@ -8,7 +8,9 @@ I am currently working as a Computer Vision Engineer Intern at AllRead Machine L
 - :school_satchel: Bachelor of Science degree in __Mathematics for Engineering__ at _Politecnico di Torino_
 
 ### Projects
-[//]: # (<Inserire i link alle repository>)
+- [Incremental Learning for Semantic Segmentation](https://github.com/riccardobosio/Incremental-Learning-for-Semantic-Segmentation)
+- [Tweets Sentiment Analysis](https://github.com/riccardobosio/Tweets-Sentiment-Analysis)
+- [Myocardial Infarction Complications dataset analysis](https://github.com/riccardobosio/Myocardial-Infarction_Complications-analysis)
           
 ### Hobbies
 - :runner: Doing several sports
