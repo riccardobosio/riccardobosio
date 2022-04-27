@@ -1,6 +1,6 @@
 ## Hi there 👋
 My research interest lies in the application of Deep Learning in different domains. 
-I am currently working as a Computer Vision Engineer Intern at AllRead Machine Learning Technologies. 
+I am currently working as a _Computer Vision Engineer Intern_ at AllRead Machine Learning Technologies. 
 
 ### About me
 - 🔭 I’m currently working on Neural Networks Optimization as a Computer Vision Engineer Intern at AllRead Machine Learning Technologies.
