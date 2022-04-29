@@ -9,6 +9,7 @@ I am currently working as a __Computer Vision Engineer Intern__ at AllRead Machi
 
 ### Projects
 - [Incremental Learning for Semantic Segmentation](https://github.com/riccardobosio/Incremental-Learning-for-Semantic-Segmentation)
+- [Optimization with Apache TVM](https://github.com/riccardobosio/Optimization-with-ApacheTVM)
 - [Tweets Sentiment Analysis](https://github.com/riccardobosio/Tweets-Sentiment-Analysis)
 - [Myocardial Infarction Complications dataset analysis](https://github.com/riccardobosio/Myocardial-Infarction_Complications-analysis)
           
