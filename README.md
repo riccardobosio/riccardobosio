@@ -1,9 +1,9 @@
 ## Hi there 👋
 My research interest lies in the application of Deep Learning in different domains. 
-I am currently working as a __Computer Vision Engineer Intern__ at AllRead Machine Learning Technologies. 
+I am currently working as a Computer Vision Engineer Intern at AllRead Machine Learning Technologies. 
 
 ### About me
-- 🔭 I’m currently working on Neural Networks Optimization as a Computer Vision Engineer Intern at AllRead Machine Learning Technologies.
+- 🔭 I’m currently working on Neural Networks Optimization as a __Computer Vision Engineer Intern__ at AllRead Machine Learning Technologies.
 - :mortar_board: Master of Science in __Computer Engineering__ at Politecnico di Torino
 - :school_satchel: Bachelor of Science degree in __Mathematics for Engineering__ at _Politecnico di Torino_
 
