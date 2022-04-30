@@ -8,7 +8,7 @@ I am currently working as a Computer Vision Engineer Intern at AllRead Machine L
 - :school_satchel: Bachelor of Science degree in __Mathematics for Engineering__ at _Politecnico di Torino_
 
 ### Projects
-- [Question Answering](https://github.com/riccardobosio/QA)
+- [Question Answering with BERTserini](https://github.com/riccardobosio/QA)
 - [Incremental Learning for Semantic Segmentation](https://github.com/riccardobosio/Incremental-Learning-for-Semantic-Segmentation)
 - [Optimization with Apache TVM](https://github.com/riccardobosio/Optimization-with-ApacheTVM)
 - [Tweets Sentiment Analysis](https://github.com/riccardobosio/Tweets-Sentiment-Analysis)
