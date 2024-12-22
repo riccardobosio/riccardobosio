@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working as a __Full Stack Engineer__ at @Humamy 👨‍💻
+I am currently working as a __Full Stack Engineer__ at @Humamy (Bending Spoons) 👨‍💻
 
 ### Background
 - 📈: Software Engineer at _Sparsity Technologies_
